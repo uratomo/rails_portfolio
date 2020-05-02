@@ -13,5 +13,8 @@
 !/log/.keep
 !/tmp/.keep
 
+#dotenv
+.env
+
 # Ignore Byebug command history file.
 .byebug_history
